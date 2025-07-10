@@ -24,5 +24,5 @@ Sistema de gestión de inventario desarrollado con React + Vite, Tailwind CSS y 
 
 ```bash
 git clone https://github.com/tu-usuario/Inventory-management-system.git
-cd my-login-app
+cd Login
 ```
