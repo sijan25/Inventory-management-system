@@ -16,7 +16,9 @@ Sistema de gestión de inventario desarrollado con React + Vite, Tailwind CSS y 
 - **Styling**: Tailwind CSS
 - **Backend**: Firebase (Authentication + Firestore)
 - **Routing**: React Router DOM
-- **Deploy**: Vercel
+- **Deploy**: ##
+
+Puedes probar el proyecto en línea aquí: [https://jocular-alfajores-548be0.netlify.app/]
 
 ## 📦 Instalación
 
